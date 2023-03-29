@@ -8,13 +8,14 @@ h1 {
     color: white;
     font-family: Roboto;
     letter-spacing: 25px;
-    font-weight: bold;    
+    font-weight: bold;
+    margin: 0;
 }
 canvas {
-  padding: 0;
-  margin: auto;
-  display: block;
-  width: 800px;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
 }
 footer {
     text-align: center;
