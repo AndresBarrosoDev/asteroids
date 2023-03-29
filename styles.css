@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(14, 13, 13);
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    letter-spacing: 25px;
+    font-weight: bold;    
+}
+canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 800px;
+}
+footer {
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    letter-spacing: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+}
